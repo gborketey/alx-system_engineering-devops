@@ -1,1 +1,1 @@
-Shell, I/O Redirections and Filters
+Shell, init files, varibles and expansions
